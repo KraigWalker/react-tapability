@@ -1,0 +1,21 @@
+{
+  "dist\\react-tapability.js": {
+    "bundled": 13924,
+    "minified": 5995,
+    "gzipped": 2174
+  },
+  "dist\\react-tapability.esm.js": {
+    "bundled": 2302,
+    "minified": 1465,
+    "gzipped": 588,
+    "treeshaked": {
+      "rollup": {
+        "code": 1297,
+        "import_statements": 187
+      },
+      "webpack": {
+        "code": 2414
+      }
+    }
+  }
+}
