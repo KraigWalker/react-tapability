@@ -73,6 +73,9 @@
 		"rollup-plugin-uglify": "^6.0.2",
 		"webpack": "^4.35.2"
 	},
+	"peerDependencies": {
+		"react": "^16.8.6"
+	},
 	"license": "MIT",
 	"jest-junit": {
 		"output": "test-reports/junit/js-test-results.xml"
