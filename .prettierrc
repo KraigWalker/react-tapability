@@ -8,8 +8,15 @@
 		{
 			"files": "*.json",
 			"options": {
+				"parser": "json",
+				"singleQuote": false,
+				"useTabs": true,
 				"tabWidth": 2
 			}
+		},
+		{
+			"files": ".prettierrc",
+			"options": { "parser": "json" }
 		}
 	]
 }
