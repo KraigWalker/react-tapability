@@ -71,7 +71,7 @@ Tappable.propTypes = {
 	classBase: PropTypes.string, // base for generated classNames
 	classes: PropTypes.object, // object containing the active and inactive class names
 	style: PropTypes.object, // additional style properties for the component
-	disabled: PropTypes.bool, // only applies to buttons
+	disabled: PropTypes.bool // only applies to buttons
 };
 
 export { Tapable };
